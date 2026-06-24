@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -222,7 +223,7 @@
                 <div class="bg-linen p-5 rounded-2xl border border-slatePine/10 shadow-sm flex flex-col justify-between min-h-[140px]">
                     <div class="flex justify-between items-start">
                         <span class="text-[10px] uppercase font-extrabold tracking-wider text-slatePine">Einwegtüten vermieden</span>
-                        <div class="bg-pine/10 text-pine p-1.5 rounded-lg text-xs"><i class="fa-solid fa-trash-arrow-up"></i></div>
+                        <div class="bg-pine/10 text-pine w-8 h-8 flex items-center justify-center rounded-lg text-sm"><i class="fa-solid fa-trash-arrow-up"></i></div>
                     </div>
                     <div class="mt-3">
                         <h3 id="metric-bags" class="font-outfit font-black text-2xl xl:text-3xl text-pine tracking-tight">432.000</h3>
@@ -234,7 +235,7 @@
                 <div class="bg-linen p-5 rounded-2xl border border-slatePine/10 shadow-sm flex flex-col justify-between min-h-[140px]">
                     <div class="flex justify-between items-start">
                         <span class="text-[10px] uppercase font-extrabold tracking-wider text-slatePine">CO₂-Einsparung</span>
-                        <div class="bg-mint/10 text-mint p-1.5 rounded-lg text-xs"><i class="fa-solid fa-cloud-arrow-down"></i></div>
+                        <div class="bg-mint/10 text-mint w-8 h-8 flex items-center justify-center rounded-lg text-sm"><i class="fa-solid fa-cloud-arrow-down"></i></div>
                     </div>
                     <div class="mt-3">
                         <h3 id="metric-co2" class="font-outfit font-black text-2xl xl:text-3xl text-pine tracking-tight">38.880 kg</h3>
@@ -246,7 +247,7 @@
                 <div class="bg-linen p-5 rounded-2xl border border-slatePine/10 shadow-sm flex flex-col justify-between min-h-[140px]">
                     <div class="flex justify-between items-start">
                         <span class="text-[10px] uppercase font-extrabold tracking-wider text-slatePine">Wertschöpfung Steyr</span>
-                        <div class="bg-gold/25 text-pine p-1.5 rounded-lg text-xs"><i class="fa-solid fa-hand-holding-dollar"></i></div>
+                        <div class="bg-gold/25 text-pine w-8 h-8 flex items-center justify-center rounded-lg text-sm"><i class="fa-solid fa-hand-holding-dollar"></i></div>
                     </div>
                     <div class="mt-3">
                         <h3 id="metric-finance" class="font-outfit font-black text-2xl xl:text-3xl text-pine tracking-tight">€ 712.800</h3>
@@ -258,7 +259,7 @@
                 <div class="bg-linen p-5 rounded-2xl border border-slatePine/10 shadow-sm flex flex-col justify-between min-h-[140px]">
                     <div class="flex justify-between items-start">
                         <span class="text-[10px] uppercase font-extrabold tracking-wider text-slatePine">Inklusions-Arbeit</span>
-                        <div class="bg-pine/10 text-pine p-1.5 rounded-lg text-xs"><i class="fa-solid fa-people-carry-box"></i></div>
+                        <div class="bg-pine/10 text-pine w-8 h-8 flex items-center justify-center rounded-lg text-sm"><i class="fa-solid fa-people-carry-box"></i></div>
                     </div>
                     <div class="mt-3">
                         <h3 id="metric-social" class="font-outfit font-black text-2xl xl:text-3xl text-pine tracking-tight">160 Std.</h3>
@@ -314,7 +315,7 @@
                         <!-- Partner 1 -->
                         <div class="flex justify-between items-center border-b border-slatePine/5 pb-2">
                             <div class="flex items-center gap-2.5">
-                                <span class="font-outfit font-extrabold text-xs text-gold bg-pine text-center rounded-md w-5.5 h-5.5 flex items-center justify-center">1</span>
+                                <span class="font-outfit font-extrabold text-xs text-gold bg-pine text-center rounded-md w-6 h-6 flex items-center justify-center">1</span>
                                 <div>
                                     <h4 class="text-xs font-bold">Altstadt-Bäcker Brandl</h4>
                                     <p class="text-[9px] text-slatePine">Lebensmittel &amp; Backwaren</p>
@@ -329,7 +330,7 @@
                         <!-- Partner 2 -->
                         <div class="flex justify-between items-center border-b border-slatePine/5 pb-2">
                             <div class="flex items-center gap-2.5">
-                                <span class="font-outfit font-extrabold text-xs text-gold bg-pine text-center rounded-md w-5.5 h-5.5 flex items-center justify-center">2</span>
+                                <span class="font-outfit font-extrabold text-xs text-gold bg-pine text-center rounded-md w-6 h-6 flex items-center justify-center">2</span>
                                 <div>
                                     <h4 class="text-xs font-bold">Intersport Steyr</h4>
                                     <p class="text-[9px] text-slatePine">Sportbekleidung &amp; Zubehör</p>
@@ -344,7 +345,7 @@
                         <!-- Partner 3 -->
                         <div class="flex justify-between items-center border-b border-slatePine/5 pb-2">
                             <div class="flex items-center gap-2.5">
-                                <span class="font-outfit font-extrabold text-xs text-gold bg-pine text-center rounded-md w-5.5 h-5.5 flex items-center justify-center">3</span>
+                                <span class="font-outfit font-extrabold text-xs text-gold bg-pine text-center rounded-md w-6 h-6 flex items-center justify-center">3</span>
                                 <div>
                                     <h4 class="text-xs font-bold">Kaufhaus Steyrer-Gwand</h4>
                                     <p class="text-[9px] text-slatePine">Modegeschäft am Stadtplatz</p>
@@ -374,7 +375,7 @@
                             <div>
                                 <h4 class="text-xs font-bold text-pine">Frequenz-Effekt am Stadtplatz</h4>
                                 <p class="text-[10px] text-slatePine leading-normal">
-                                    Teilnehmende Geschäfte berichten von durchschnittlich <strong>+6,5%</strong> mehr Wiederholungskäufen durch umweltbewusste Stammkunden.
+                                    Teilnehmende Geschäfte können ein Minimum von <strong>+6,5%</strong> an zusätzlichen Wiederholungskäufen durch umweltbewusste Stammkunden erwarten.
                                 </p>
                             </div>
                         </div>
